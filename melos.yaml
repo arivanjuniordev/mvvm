@@ -1,0 +1,6 @@
+name: mvvm
+
+packages:
+  - features/core
+  - features/details
+  - features/cep
